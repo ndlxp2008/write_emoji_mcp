@@ -1,5 +1,7 @@
 # md-emoji-mcp ![火箭](emojis/remote/remote/火箭_1745566274842.gif)
 
+本项目基于 [mcp-temple](https://github.com/ndlxp2008/mcp-temple) 构建,mcp-temple 也在不断完善中。
+
 欢迎来到 md-emoji-mcp，一个超便捷的 CLI 小工具，让你的 Markdown 技术文章瞬间萌化~ ![笑脸](emojis/remote/remote/笑脸_1745566276057.jpg)
 
 ## 一、前置准备 ![工具](emojis/remote/remote/工具_1745566277182.jpg)
